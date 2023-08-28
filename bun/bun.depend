@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1693252985 source:c:\users\hp\desktop\proiecte\atm simulator\bun\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<typeinfo>
+	<string>
+	<fstream>
+
